@@ -1,0 +1,162 @@
+de:
+  morgen: morning
+  vormittag: morning
+  nachmittag: afternoon
+  nacht: night
+  abend: night
+  jetzt: this
+  jetzt: this
+  erste: first
+  ersten: first
+  zweite: second
+  zweiten: second
+  sekunde: second
+  sekunden: second
+  dritte: third
+  drittel: third
+  vierte: fourth
+  viertel: fourth
+  fünfte: fifth
+  fünften: fifth
+  fünftel: fifth
+  sechste: sixth
+  sechstel: sixth
+  sechsten: sixth
+  siebte: seventh
+  siebten: seventh
+  achte: eighth
+  achten: eighth
+  neunten: nineth
+  neunte: nineth
+  zehntel: tenth
+  zehnten: tenth
+
+  # Common
+  heute: today
+  heutzutage: today
+  jetzt: now
+  nun: now
+  also: now
+  morgen: tomorrow
+  gestern: yesterday
+  nächsten: next
+  nachsten: next
+  letzten: last
+  letzte: last
+  letztes: last
+  vergangenen: past
+  sekunde: second
+  sekunden: seconds
+  minute: minute
+  minuten: minutes
+  stunde: hour
+  stunden: hours
+  tag: day
+  tage: days
+  woche: week
+  wochen: weeks
+  monat: month
+  monate: months
+  jahr: year
+  jahre: years
+  ein: one
+  zwei: two
+  in: in
+  um: at
+  bei: at
+
+  # Numbers
+  ein: one
+  zwei: two
+  drei: three
+  vier: four
+  fünf: five
+  funf: five
+  sechs: six
+  sieben: seven
+  acht: eight
+  neun: nine
+  zehn: ten
+  elf: eleven
+  zwölf: twelve
+  zwolf: twelve
+  dreizehn: thirteen
+  vierzehn: fourteen
+  fünfzehn: fifteen
+  funfzehn: fifteen
+  sechzehn: sixteen
+  siebzehn: seventeen
+  achtzehn: eighteen
+  neunzehn: nineteen
+  zwanzig: twenty
+  dreißig: thirty
+  vierzig: fourty
+  fünfzig: fifty
+  funfzig: fifty
+  sechzig: sixty
+  siebzig: seventy
+  achtzig: eighty
+  neunzig: ninety
+  hundert: one hundred
+  einhundert: one hundred
+  zweihudert: two hundred
+  dreihundert: three hundred
+  vierhundert: four hundred
+  fünfhundert: five hundred
+  funfhundert: five hundred
+  sechshundert: six hundred
+  siebenhundert: seven hundred
+  achthundert: eight hundred
+  neunhundert: nine hundred
+  tausend: thousand
+
+  # Wdays
+  sonntag: sunday
+  so: sunday
+  montag: monday
+  mo: monday
+  dienstag: tuesday
+  di: tuesday
+  mittwoch: wednesday
+  mi: wednesday
+  donnerstag: thursday
+  do: thursday
+  freitag: friday
+  fr: friday
+  samstag: saturday
+  sonnabend: saturday
+  sa: saturday
+
+  # Months
+  januar: january
+  jänuar: january
+  februar: february
+  marsch: march
+  april: april
+  mai: may
+  juni: june
+  juli: july
+  august: august
+  september: september
+  oktober: october
+  november: november
+  dezember: december
+  jan: january
+  jän: january
+  feb: february
+  marz: march
+  märz: march
+  apr: april
+  aug: august
+  sept: september
+  okt: october
+  nov: november
+  dez: december
+
+  # Season
+  sommer: summer
+  herbst: autumn
+  winter: winter
+  frühjahr: spring
+  fruhjahr: spring
+  frühling: spring
