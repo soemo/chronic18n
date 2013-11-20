@@ -67,29 +67,128 @@ de:
 
   # Numbers
   ein: one
+  erster: one
+  Erster: one
+  1: one
+  1.: one
   zwei: two
+  zweiter: two
+  Zweiter: two
+  2.: two
+  2: two
   drei: three
+  dritter: three
+  Dritter: three
+  3.: three
+  3: three
   vier: four
+  vierter: four
+  Vierter: four
+  4: four
+  4.: four
   fünf: five
-  funf: five
+  fünfter: five
+  Fünfter: five
+  5.: five
+  5: five
   sechs: six
+  Sechster: six
+  sechster: six
+  6.: six
+  6: six
   sieben: seven
+  siebter: seven
+  Siebter: seven
+  7.: seven
+  7: seven
   acht: eight
+  achter: eight
+  Achter: eight
+  8: eight
+  8.: eight
   neun: nine
+  neunter: nine
+  Neunter: nine
+  9.: nine
+  9: nine
   zehn: ten
+  zehnter: ten
+  Zehnter: ten
+  10.: ten
+  10: ten
   elf: eleven
+  elfter: eleven
+  Elfter: eleven
+  11.: eleven
+  11: eleven
   zwölf: twelve
+  zwölfter: twelve
+  Zwölfter: twelve
+  12.: twelve
+  12: twelve
   zwolf: twelve
   dreizehn: thirteen
+  dreizehnter: thirteen
+  Dreizehnter: thirteen
+  13.: thirteen
+  13: thirteen
   vierzehn: fourteen
+  vierzehnter: fourteen
+  Vierzehnter: fourteen
+  14.: fourteen
+  14: fourteen
   fünfzehn: fifteen
+  fünfzehnter: fifteen
+  Fünfzehnter: fifteen
+  15.: fifteen
+  15: fifteen
   funfzehn: fifteen
   sechzehn: sixteen
+  sechzehnter: sixteen
+  Sechzehnter: sixteen
+  16.: sixteen
+  16: sixteen
   siebzehn: seventeen
+  siebzehnter: seventeen
+  Siebzehnter: seventeen
+  17.: seventeen
+  17: seventeen
   achtzehn: eighteen
+  achtzehnter: eighteen
+  Achtzehnter: eighteen
+  18.: eighteen
+  18: eighteen
   neunzehn: nineteen
+  neunzehnter: nineteen
+  Neunzehnter: nineteen
+  19.: nineteen
+  19: nineteen
   zwanzig: twenty
+  20.: twenty
+  20: twenty
+  21.: twentyone
+  21: twentyone
+  22.: twentytwo
+  22: twentytwo
+  23.: twentythree
+  23: twentythree
+  24.: twentyfour
+  24: twentyfour
+  25.: twentyfive
+  25: twentyfive
+  26.: twentysix
+  26: twentysix
+  27.: twentyseven
+  27: twentyseven
+  28.: twentyeight
+  28: twentyeight
+  29.: twentynine
+  29: twentynine
   dreißig: thirty
+  30.: thirty
+  30: thirty
+  31.: thirtyone
+  31: thirtyone
   vierzig: fourty
   fünfzig: fifty
   funfzig: fifty
@@ -129,29 +228,53 @@ de:
 
   # Months
   januar: january
+  Januar: january
   jänuar: january
+  Jänuar: january
   februar: february
+  Februar: february
   marsch: march
+  Marsch: march
   april: april
+  April: april
   mai: may
+  Mai: may
   juni: june
+  Juni: june
   juli: july
+  Juli: july
   august: august
+  August: august
   september: september
+  September: september
   oktober: october
+  Oktober: october
   november: november
+  November: november
   dezember: december
+  Dezember: december
   jan: january
+  Jan: january
   jän: january
+  Jän: january
   feb: february
+  Feb: february
   marz: march
+  Marz: march
   märz: march
+  März: march
   apr: april
+  Apr: april
   aug: august
+  Aug: august
   sept: september
+  Sept: september
   okt: october
+  Okt: october
   nov: november
+  Nov: november
   dez: december
+  Dez: december
 
   # Season
   sommer: summer
