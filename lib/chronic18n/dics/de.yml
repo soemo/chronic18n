@@ -1,11 +1,16 @@
 de:
   morgen: morning
+  Morgen: morning
   vormittag: morning
+  Vormittag: morning
   nachmittag: afternoon
+  Nachmittag: afternoon
   nacht: night
+  Nacht: night
   abend: night
+  Abend: night
   jetzt: this
-  jetzt: this
+  Jetzt: this
   erste: first
   ersten: first
   zweite: second
@@ -33,8 +38,10 @@ de:
 
   # Common
   heute: today
+  Heute: today
   heutzutage: today
   jetzt: now
+  Jetzt: now
   nun: now
   also: now
   morgen: tomorrow
@@ -52,13 +59,21 @@ de:
   stunde: hour
   stunden: hours
   tag: day
+  Tag: day
   tage: days
+  Tage: days
   woche: week
+  Woche: week
   wochen: weeks
+  Wochen: weeks
   monat: month
+  Monat: month
   monate: months
+  Monate: months
   jahr: year
+  Jahr: year
   jahre: years
+  Jahre: years
   ein: one
   zwei: two
   in: in
@@ -211,20 +226,35 @@ de:
 
   # Wdays
   sonntag: sunday
+  Sonntag: sunday
   so: sunday
+  So: sunday
   montag: monday
+  Montag: monday
   mo: monday
+  Mo: monday
   dienstag: tuesday
+  Dienstag: tuesday
   di: tuesday
+  Di: tuesday
   mittwoch: wednesday
+  Mittwoch: wednesday
   mi: wednesday
+  Mi: wednesday
   donnerstag: thursday
+  Donnerstag: thursday
   do: thursday
+  Do: thursday
   freitag: friday
+  Freitag: friday
   fr: friday
+  Fr: friday
   samstag: saturday
+  Samstag: saturday
   sonnabend: saturday
+  Sonnabend: saturday
   sa: saturday
+  Sa: saturday
 
   # Months
   januar: january
@@ -278,8 +308,13 @@ de:
 
   # Season
   sommer: summer
+  Sommer: summer
   herbst: autumn
+  Herbst: autumn
   winter: winter
+  Winter: winter
   frühjahr: spring
+  Frühjahr: spring
   fruhjahr: spring
-  frühling: spring
+  fruhjahr: spring
+  Frühling: spring
